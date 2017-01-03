@@ -12,6 +12,8 @@ Letter casing and punctuation do not matter when testing a palindrome. All of th
 
 You must implement this using a recursion and strip out non letters.
 Hint: The replaceAll method should strip out the non-whitespace `mystring.replaceAll("[^A-Za-z0-9 ]", "");`
+There has been a project provided along with tests that must pass
+
 
 ## Hard Mode
 
